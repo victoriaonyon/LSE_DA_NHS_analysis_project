@@ -1,2 +1,2 @@
-# LSE_DA_NHS_analysis_project
-LSE Career Accelerator NHS missed appointments analysis project
+LSE_DA_NHS_ Missed Appointments analysis_project
+This is my repository for LSE's Career Accelerator Diagnostic Analysis using Python module. Files contained include a Jupyter notebook, essay, and mp4 presentation.
